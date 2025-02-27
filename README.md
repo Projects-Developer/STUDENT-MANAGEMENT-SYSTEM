@@ -1,6 +1,8 @@
 # STUDENT MANAGEMENT SYSTEM
 Student Management System With Code Documents And Video Tutorial
 
+![Image](https://github.com/user-attachments/assets/99c463f0-43b6-4643-ae9d-ec9c73c3495f)
+
 ### Youtube Link: https://youtu.be/kNkZKfMGmbo?si=q6mrZ0x_vbxmg-Eo
 
 ### Abstract: 
